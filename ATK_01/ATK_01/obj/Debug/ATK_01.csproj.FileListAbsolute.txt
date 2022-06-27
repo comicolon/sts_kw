@@ -1,0 +1,16 @@
+C:\Users\comic\source\repos\ATK_01\ATK_01\bin\Debug\ATK_01.exe.config
+C:\Users\comic\source\repos\ATK_01\ATK_01\bin\Debug\ATK_01.exe
+C:\Users\comic\source\repos\ATK_01\ATK_01\bin\Debug\ATK_01.pdb
+C:\Users\comic\source\repos\ATK_01\ATK_01\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\comic\source\repos\ATK_01\ATK_01\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.csproj.ResolveComReference.cache
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.MainForm.resources
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.Properties.Resources.resources
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.csproj.GenerateResource.cache
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.csproj.CoreCompileInputs.cache
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.exe
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.pdb
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.SetupStrategyForm.resources
+C:\Users\comic\source\repos\ATK_01\ATK_01\obj\Debug\ATK_01.csproj.AssemblyReference.cache
